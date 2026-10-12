@@ -1,0 +1,8 @@
+# Install a matching PyTorch/PyG/torch_cluster/torch_scatter stack first.
+# See README; these packages alone do not provide the geometric runtime.
+numpy
+pandas
+scipy
+dill
+biopandas
+e3nn
